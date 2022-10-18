@@ -1298,8 +1298,9 @@ input, select, textarea {
 			border-image: linear-gradient(rgb(102, 102, 255), rgb(255, 112, 255)) 30;
 			border-style: solid;
 			border-width: 4px;
-			padding-top: 7px;
 			border-radius: 70%;
+			padding-top: 13px;
+			padding-left: 7px;
 		}
 
 			#header .logo .icon:before {
